@@ -25,7 +25,7 @@ Example usage:  174912
 python3 train.py \
     --logtostderr \
     --train_dir=./train_model \
-    --pipeline_config_path=./configs/ssd_mobilenet_v1_coco.config
+    --pipeline_config_path=./configs/ssd_mobilenet_v2_coco.config
 
 2) Three configuration files can be provided: a model_pb2.DetectionModel
 configuration file to define what type of DetectionModel is being trained, an
