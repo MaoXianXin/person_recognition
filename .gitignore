@@ -14,3 +14,4 @@ object_detection/builders/__pycache__/
 object_detection/box_coders/__pycache__/
 object_detection/anchor_generators/__pycache__/
 object_detection/__pycache__/
+model/
